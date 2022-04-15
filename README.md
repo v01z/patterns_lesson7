@@ -1,1 +1,1 @@
-# patterns_lesson7
+# patterns_homework_7
